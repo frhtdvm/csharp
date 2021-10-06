@@ -28,7 +28,7 @@ namespace degiskenler
             //Reel sayilar
             float f = 5;     //4 byte
             double d = 5;   //8 byte
-            //decimal de = 5; //16 byte
+            decimal de = 5; //16 byte
 
             char ch = 'a';   //2 byte
             string str = "test"; //sinirsiz
