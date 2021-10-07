@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\tipDegiskenleri\bin\Debug\net5.0\tipDegiskenleri.exe
+D:\VS Code Projects\csharp\tipDegiskenleri\bin\Debug\net5.0\tipDegiskenleri.deps.json
+D:\VS Code Projects\csharp\tipDegiskenleri\bin\Debug\net5.0\tipDegiskenleri.runtimeconfig.json
+D:\VS Code Projects\csharp\tipDegiskenleri\bin\Debug\net5.0\tipDegiskenleri.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\tipDegiskenleri\bin\Debug\net5.0\tipDegiskenleri.dll
+D:\VS Code Projects\csharp\tipDegiskenleri\bin\Debug\net5.0\ref\tipDegiskenleri.dll
+D:\VS Code Projects\csharp\tipDegiskenleri\bin\Debug\net5.0\tipDegiskenleri.pdb
+D:\VS Code Projects\csharp\tipDegiskenleri\obj\Debug\net5.0\tipDegiskenleri.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\tipDegiskenleri\obj\Debug\net5.0\tipDegiskenleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\tipDegiskenleri\obj\Debug\net5.0\tipDegiskenleri.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\tipDegiskenleri\obj\Debug\net5.0\tipDegiskenleri.AssemblyInfo.cs
+D:\VS Code Projects\csharp\tipDegiskenleri\obj\Debug\net5.0\tipDegiskenleri.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\tipDegiskenleri\obj\Debug\net5.0\tipDegiskenleri.dll
+D:\VS Code Projects\csharp\tipDegiskenleri\obj\Debug\net5.0\ref\tipDegiskenleri.dll
+D:\VS Code Projects\csharp\tipDegiskenleri\obj\Debug\net5.0\tipDegiskenleri.pdb
+D:\VS Code Projects\csharp\tipDegiskenleri\obj\Debug\net5.0\tipDegiskenleri.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tipDegiskenleri/1.0.0": {
+        "runtime": {
+          "tipDegiskenleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tipDegiskenleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
