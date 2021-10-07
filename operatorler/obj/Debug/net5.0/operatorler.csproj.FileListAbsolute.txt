@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\operatorler\bin\Debug\net5.0\operatorler.exe
+D:\VS Code Projects\csharp\operatorler\bin\Debug\net5.0\operatorler.deps.json
+D:\VS Code Projects\csharp\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.json
+D:\VS Code Projects\csharp\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\operatorler\bin\Debug\net5.0\operatorler.dll
+D:\VS Code Projects\csharp\operatorler\bin\Debug\net5.0\ref\operatorler.dll
+D:\VS Code Projects\csharp\operatorler\bin\Debug\net5.0\operatorler.pdb
+D:\VS Code Projects\csharp\operatorler\obj\Debug\net5.0\operatorler.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\operatorler\obj\Debug\net5.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfo.cs
+D:\VS Code Projects\csharp\operatorler\obj\Debug\net5.0\operatorler.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\operatorler\obj\Debug\net5.0\operatorler.dll
+D:\VS Code Projects\csharp\operatorler\obj\Debug\net5.0\ref\operatorler.dll
+D:\VS Code Projects\csharp\operatorler\obj\Debug\net5.0\operatorler.pdb
+D:\VS Code Projects\csharp\operatorler\obj\Debug\net5.0\operatorler.genruntimeconfig.cache
