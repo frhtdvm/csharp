@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\obj\Debug\net5.0\csharp.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\obj\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\obj\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\obj\Debug\net5.0\csharp.AssemblyInfo.cs
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\obj\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\bin\Debug\net5.0\csharp.exe
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\bin\Debug\net5.0\csharp.deps.json
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\bin\Debug\net5.0\csharp.runtimeconfig.json
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\bin\Debug\net5.0\csharp.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\bin\Debug\net5.0\csharp.dll
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\bin\Debug\net5.0\ref\csharp.dll
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\bin\Debug\net5.0\csharp.pdb
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\obj\Debug\net5.0\csharp.dll
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\obj\Debug\net5.0\ref\csharp.dll
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\obj\Debug\net5.0\csharp.pdb
+D:\VS Code Projects\csharp\ilk örnek Kare ve Dikdörtgen\obj\Debug\net5.0\csharp.genruntimeconfig.cache
