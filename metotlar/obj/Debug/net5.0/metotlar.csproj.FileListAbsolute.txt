@@ -1,0 +1,5 @@
+D:\VS Code Projects\csharp\metotlar\obj\Debug\net5.0\metotlar.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+D:\VS Code Projects\csharp\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache

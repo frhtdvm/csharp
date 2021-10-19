@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS Code Projects\\csharp\\csharp.csproj": {}
+    "D:\\VS Code Projects\\csharp\\metotlar\\metotlar.csproj": {}
   },
   "projects": {
-    "D:\\VS Code Projects\\csharp\\csharp.csproj": {
+    "D:\\VS Code Projects\\csharp\\metotlar\\metotlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS Code Projects\\csharp\\csharp.csproj",
-        "projectName": "csharp",
-        "projectPath": "D:\\VS Code Projects\\csharp\\csharp.csproj",
+        "projectUniqueName": "D:\\VS Code Projects\\csharp\\metotlar\\metotlar.csproj",
+        "projectName": "metotlar",
+        "projectPath": "D:\\VS Code Projects\\csharp\\metotlar\\metotlar.csproj",
         "packagesPath": "C:\\Users\\bomsi\\.nuget\\packages\\",
-        "outputPath": "D:\\VS Code Projects\\csharp\\obj\\",
+        "outputPath": "D:\\VS Code Projects\\csharp\\metotlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bomsi\\AppData\\Roaming\\NuGet\\NuGet.Config"

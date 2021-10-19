@@ -1,2 +1,0 @@
-# csharp
-charp örnekleri

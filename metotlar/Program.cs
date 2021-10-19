@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace csharp
+namespace metotlar
 {
     class Program
     {
@@ -8,6 +8,7 @@ namespace csharp
         {
             Console.WriteLine("Hello World!");
 
+           
         }
     }
 }
