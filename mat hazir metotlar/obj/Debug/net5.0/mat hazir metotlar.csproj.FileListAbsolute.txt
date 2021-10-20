@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\mat hazir metotlar\bin\Debug\net5.0\mat hazir metotlar.exe
+D:\VS Code Projects\csharp\mat hazir metotlar\bin\Debug\net5.0\mat hazir metotlar.deps.json
+D:\VS Code Projects\csharp\mat hazir metotlar\bin\Debug\net5.0\mat hazir metotlar.runtimeconfig.json
+D:\VS Code Projects\csharp\mat hazir metotlar\bin\Debug\net5.0\mat hazir metotlar.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\mat hazir metotlar\bin\Debug\net5.0\mat hazir metotlar.dll
+D:\VS Code Projects\csharp\mat hazir metotlar\bin\Debug\net5.0\ref\mat hazir metotlar.dll
+D:\VS Code Projects\csharp\mat hazir metotlar\bin\Debug\net5.0\mat hazir metotlar.pdb
+D:\VS Code Projects\csharp\mat hazir metotlar\obj\Debug\net5.0\mat hazir metotlar.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\mat hazir metotlar\obj\Debug\net5.0\mat hazir metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\mat hazir metotlar\obj\Debug\net5.0\mat hazir metotlar.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\mat hazir metotlar\obj\Debug\net5.0\mat hazir metotlar.AssemblyInfo.cs
+D:\VS Code Projects\csharp\mat hazir metotlar\obj\Debug\net5.0\mat hazir metotlar.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\mat hazir metotlar\obj\Debug\net5.0\mat hazir metotlar.dll
+D:\VS Code Projects\csharp\mat hazir metotlar\obj\Debug\net5.0\ref\mat hazir metotlar.dll
+D:\VS Code Projects\csharp\mat hazir metotlar\obj\Debug\net5.0\mat hazir metotlar.pdb
+D:\VS Code Projects\csharp\mat hazir metotlar\obj\Debug\net5.0\mat hazir metotlar.genruntimeconfig.cache
