@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\bin\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.exe
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\bin\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.deps.json
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\bin\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.runtimeconfig.json
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\bin\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\bin\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.dll
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\bin\Debug\net5.0\ref\6 basamakli sayinin sayi degerlerini toplama.dll
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\bin\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.pdb
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\obj\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\obj\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\obj\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\obj\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.AssemblyInfo.cs
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\obj\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\obj\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.dll
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\obj\Debug\net5.0\ref\6 basamakli sayinin sayi degerlerini toplama.dll
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\obj\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.pdb
+D:\VS Code Projects\csharp\6 basamakli sayinin sayi degerlerini toplama\obj\Debug\net5.0\6 basamakli sayinin sayi degerlerini toplama.genruntimeconfig.cache
