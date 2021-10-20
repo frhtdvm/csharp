@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\matematiksel Denklem\bin\Debug\net5.0\matematiksel Denklem.exe
+D:\VS Code Projects\csharp\matematiksel Denklem\bin\Debug\net5.0\matematiksel Denklem.deps.json
+D:\VS Code Projects\csharp\matematiksel Denklem\bin\Debug\net5.0\matematiksel Denklem.runtimeconfig.json
+D:\VS Code Projects\csharp\matematiksel Denklem\bin\Debug\net5.0\matematiksel Denklem.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\matematiksel Denklem\bin\Debug\net5.0\matematiksel Denklem.dll
+D:\VS Code Projects\csharp\matematiksel Denklem\bin\Debug\net5.0\ref\matematiksel Denklem.dll
+D:\VS Code Projects\csharp\matematiksel Denklem\bin\Debug\net5.0\matematiksel Denklem.pdb
+D:\VS Code Projects\csharp\matematiksel Denklem\obj\Debug\net5.0\matematiksel Denklem.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\matematiksel Denklem\obj\Debug\net5.0\matematiksel Denklem.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\matematiksel Denklem\obj\Debug\net5.0\matematiksel Denklem.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\matematiksel Denklem\obj\Debug\net5.0\matematiksel Denklem.AssemblyInfo.cs
+D:\VS Code Projects\csharp\matematiksel Denklem\obj\Debug\net5.0\matematiksel Denklem.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\matematiksel Denklem\obj\Debug\net5.0\matematiksel Denklem.dll
+D:\VS Code Projects\csharp\matematiksel Denklem\obj\Debug\net5.0\ref\matematiksel Denklem.dll
+D:\VS Code Projects\csharp\matematiksel Denklem\obj\Debug\net5.0\matematiksel Denklem.pdb
+D:\VS Code Projects\csharp\matematiksel Denklem\obj\Debug\net5.0\matematiksel Denklem.genruntimeconfig.cache

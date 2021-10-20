@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\dairenin cevresi\bin\Debug\net5.0\dairenin cevresi.exe
+D:\VS Code Projects\csharp\dairenin cevresi\bin\Debug\net5.0\dairenin cevresi.deps.json
+D:\VS Code Projects\csharp\dairenin cevresi\bin\Debug\net5.0\dairenin cevresi.runtimeconfig.json
+D:\VS Code Projects\csharp\dairenin cevresi\bin\Debug\net5.0\dairenin cevresi.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\dairenin cevresi\bin\Debug\net5.0\dairenin cevresi.dll
+D:\VS Code Projects\csharp\dairenin cevresi\bin\Debug\net5.0\ref\dairenin cevresi.dll
+D:\VS Code Projects\csharp\dairenin cevresi\bin\Debug\net5.0\dairenin cevresi.pdb
+D:\VS Code Projects\csharp\dairenin cevresi\obj\Debug\net5.0\dairenin cevresi.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\dairenin cevresi\obj\Debug\net5.0\dairenin cevresi.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\dairenin cevresi\obj\Debug\net5.0\dairenin cevresi.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\dairenin cevresi\obj\Debug\net5.0\dairenin cevresi.AssemblyInfo.cs
+D:\VS Code Projects\csharp\dairenin cevresi\obj\Debug\net5.0\dairenin cevresi.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\dairenin cevresi\obj\Debug\net5.0\dairenin cevresi.dll
+D:\VS Code Projects\csharp\dairenin cevresi\obj\Debug\net5.0\ref\dairenin cevresi.dll
+D:\VS Code Projects\csharp\dairenin cevresi\obj\Debug\net5.0\dairenin cevresi.pdb
+D:\VS Code Projects\csharp\dairenin cevresi\obj\Debug\net5.0\dairenin cevresi.genruntimeconfig.cache
