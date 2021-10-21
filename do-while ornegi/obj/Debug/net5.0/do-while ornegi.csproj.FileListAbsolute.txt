@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\do-while ornegi\obj\Debug\net5.0\do-while ornegi.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\do-while ornegi\obj\Debug\net5.0\do-while ornegi.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\do-while ornegi\obj\Debug\net5.0\do-while ornegi.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\do-while ornegi\obj\Debug\net5.0\do-while ornegi.AssemblyInfo.cs
+D:\VS Code Projects\csharp\do-while ornegi\obj\Debug\net5.0\do-while ornegi.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\do-while ornegi\bin\Debug\net5.0\do-while ornegi.exe
+D:\VS Code Projects\csharp\do-while ornegi\bin\Debug\net5.0\do-while ornegi.deps.json
+D:\VS Code Projects\csharp\do-while ornegi\bin\Debug\net5.0\do-while ornegi.runtimeconfig.json
+D:\VS Code Projects\csharp\do-while ornegi\bin\Debug\net5.0\do-while ornegi.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\do-while ornegi\bin\Debug\net5.0\do-while ornegi.dll
+D:\VS Code Projects\csharp\do-while ornegi\bin\Debug\net5.0\ref\do-while ornegi.dll
+D:\VS Code Projects\csharp\do-while ornegi\bin\Debug\net5.0\do-while ornegi.pdb
+D:\VS Code Projects\csharp\do-while ornegi\obj\Debug\net5.0\do-while ornegi.dll
+D:\VS Code Projects\csharp\do-while ornegi\obj\Debug\net5.0\ref\do-while ornegi.dll
+D:\VS Code Projects\csharp\do-while ornegi\obj\Debug\net5.0\do-while ornegi.pdb
+D:\VS Code Projects\csharp\do-while ornegi\obj\Debug\net5.0\do-while ornegi.genruntimeconfig.cache
