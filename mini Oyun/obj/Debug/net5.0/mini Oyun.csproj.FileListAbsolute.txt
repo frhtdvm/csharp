@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\mini Oyun\bin\Debug\net5.0\mini Oyun.exe
+D:\VS Code Projects\csharp\mini Oyun\bin\Debug\net5.0\mini Oyun.deps.json
+D:\VS Code Projects\csharp\mini Oyun\bin\Debug\net5.0\mini Oyun.runtimeconfig.json
+D:\VS Code Projects\csharp\mini Oyun\bin\Debug\net5.0\mini Oyun.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\mini Oyun\bin\Debug\net5.0\mini Oyun.dll
+D:\VS Code Projects\csharp\mini Oyun\bin\Debug\net5.0\ref\mini Oyun.dll
+D:\VS Code Projects\csharp\mini Oyun\bin\Debug\net5.0\mini Oyun.pdb
+D:\VS Code Projects\csharp\mini Oyun\obj\Debug\net5.0\mini Oyun.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\mini Oyun\obj\Debug\net5.0\mini Oyun.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\mini Oyun\obj\Debug\net5.0\mini Oyun.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\mini Oyun\obj\Debug\net5.0\mini Oyun.AssemblyInfo.cs
+D:\VS Code Projects\csharp\mini Oyun\obj\Debug\net5.0\mini Oyun.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\mini Oyun\obj\Debug\net5.0\mini Oyun.dll
+D:\VS Code Projects\csharp\mini Oyun\obj\Debug\net5.0\ref\mini Oyun.dll
+D:\VS Code Projects\csharp\mini Oyun\obj\Debug\net5.0\mini Oyun.pdb
+D:\VS Code Projects\csharp\mini Oyun\obj\Debug\net5.0\mini Oyun.genruntimeconfig.cache
