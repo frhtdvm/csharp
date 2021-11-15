@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\bin\Debug\net5.0\Giris.exe
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\bin\Debug\net5.0\Giris.deps.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\bin\Debug\net5.0\Giris.runtimeconfig.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\bin\Debug\net5.0\Giris.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\bin\Debug\net5.0\Giris.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\bin\Debug\net5.0\ref\Giris.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\bin\Debug\net5.0\Giris.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\obj\Debug\net5.0\Giris.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\obj\Debug\net5.0\Giris.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\obj\Debug\net5.0\Giris.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\obj\Debug\net5.0\Giris.AssemblyInfo.cs
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\obj\Debug\net5.0\Giris.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\obj\Debug\net5.0\Giris.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\obj\Debug\net5.0\ref\Giris.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\obj\Debug\net5.0\Giris.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\obj\Debug\net5.0\Giris.genruntimeconfig.cache
