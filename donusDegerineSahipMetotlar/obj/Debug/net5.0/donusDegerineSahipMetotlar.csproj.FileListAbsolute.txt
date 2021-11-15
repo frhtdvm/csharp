@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\bin\Debug\net5.0\donusDegerineSahipMetotlar.exe
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\bin\Debug\net5.0\donusDegerineSahipMetotlar.deps.json
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\bin\Debug\net5.0\donusDegerineSahipMetotlar.runtimeconfig.json
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\bin\Debug\net5.0\donusDegerineSahipMetotlar.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\bin\Debug\net5.0\donusDegerineSahipMetotlar.dll
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\bin\Debug\net5.0\ref\donusDegerineSahipMetotlar.dll
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\bin\Debug\net5.0\donusDegerineSahipMetotlar.pdb
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\obj\Debug\net5.0\donusDegerineSahipMetotlar.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\obj\Debug\net5.0\donusDegerineSahipMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\obj\Debug\net5.0\donusDegerineSahipMetotlar.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\obj\Debug\net5.0\donusDegerineSahipMetotlar.AssemblyInfo.cs
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\obj\Debug\net5.0\donusDegerineSahipMetotlar.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\obj\Debug\net5.0\donusDegerineSahipMetotlar.dll
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\obj\Debug\net5.0\ref\donusDegerineSahipMetotlar.dll
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\obj\Debug\net5.0\donusDegerineSahipMetotlar.pdb
+D:\VS Code Projects\csharp\donusDegerineSahipMetotlar\obj\Debug\net5.0\donusDegerineSahipMetotlar.genruntimeconfig.cache
