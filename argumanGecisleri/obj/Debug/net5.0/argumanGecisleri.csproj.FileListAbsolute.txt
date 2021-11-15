@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\argumanGecisleri\obj\Debug\net5.0\argumanGecisleri.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\argumanGecisleri\obj\Debug\net5.0\argumanGecisleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\argumanGecisleri\obj\Debug\net5.0\argumanGecisleri.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\argumanGecisleri\obj\Debug\net5.0\argumanGecisleri.AssemblyInfo.cs
+D:\VS Code Projects\csharp\argumanGecisleri\obj\Debug\net5.0\argumanGecisleri.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\argumanGecisleri\bin\Debug\net5.0\argumanGecisleri.exe
+D:\VS Code Projects\csharp\argumanGecisleri\bin\Debug\net5.0\argumanGecisleri.deps.json
+D:\VS Code Projects\csharp\argumanGecisleri\bin\Debug\net5.0\argumanGecisleri.runtimeconfig.json
+D:\VS Code Projects\csharp\argumanGecisleri\bin\Debug\net5.0\argumanGecisleri.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\argumanGecisleri\bin\Debug\net5.0\argumanGecisleri.dll
+D:\VS Code Projects\csharp\argumanGecisleri\bin\Debug\net5.0\ref\argumanGecisleri.dll
+D:\VS Code Projects\csharp\argumanGecisleri\bin\Debug\net5.0\argumanGecisleri.pdb
+D:\VS Code Projects\csharp\argumanGecisleri\obj\Debug\net5.0\argumanGecisleri.dll
+D:\VS Code Projects\csharp\argumanGecisleri\obj\Debug\net5.0\ref\argumanGecisleri.dll
+D:\VS Code Projects\csharp\argumanGecisleri\obj\Debug\net5.0\argumanGecisleri.pdb
+D:\VS Code Projects\csharp\argumanGecisleri\obj\Debug\net5.0\argumanGecisleri.genruntimeconfig.cache

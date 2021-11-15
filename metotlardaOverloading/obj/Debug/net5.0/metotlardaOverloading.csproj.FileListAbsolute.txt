@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\metotlardaOverloading\bin\Debug\net5.0\metotlardaOverloading.exe
+D:\VS Code Projects\csharp\metotlardaOverloading\bin\Debug\net5.0\metotlardaOverloading.deps.json
+D:\VS Code Projects\csharp\metotlardaOverloading\bin\Debug\net5.0\metotlardaOverloading.runtimeconfig.json
+D:\VS Code Projects\csharp\metotlardaOverloading\bin\Debug\net5.0\metotlardaOverloading.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\metotlardaOverloading\bin\Debug\net5.0\metotlardaOverloading.dll
+D:\VS Code Projects\csharp\metotlardaOverloading\bin\Debug\net5.0\ref\metotlardaOverloading.dll
+D:\VS Code Projects\csharp\metotlardaOverloading\bin\Debug\net5.0\metotlardaOverloading.pdb
+D:\VS Code Projects\csharp\metotlardaOverloading\obj\Debug\net5.0\metotlardaOverloading.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\metotlardaOverloading\obj\Debug\net5.0\metotlardaOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\metotlardaOverloading\obj\Debug\net5.0\metotlardaOverloading.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\metotlardaOverloading\obj\Debug\net5.0\metotlardaOverloading.AssemblyInfo.cs
+D:\VS Code Projects\csharp\metotlardaOverloading\obj\Debug\net5.0\metotlardaOverloading.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\metotlardaOverloading\obj\Debug\net5.0\metotlardaOverloading.dll
+D:\VS Code Projects\csharp\metotlardaOverloading\obj\Debug\net5.0\ref\metotlardaOverloading.dll
+D:\VS Code Projects\csharp\metotlardaOverloading\obj\Debug\net5.0\metotlardaOverloading.pdb
+D:\VS Code Projects\csharp\metotlardaOverloading\obj\Debug\net5.0\metotlardaOverloading.genruntimeconfig.cache

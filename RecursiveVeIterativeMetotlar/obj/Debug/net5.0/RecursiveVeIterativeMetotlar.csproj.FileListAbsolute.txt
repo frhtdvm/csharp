@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\obj\Debug\net5.0\RecursiveVeIterativeMetotlar.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\obj\Debug\net5.0\RecursiveVeIterativeMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\obj\Debug\net5.0\RecursiveVeIterativeMetotlar.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\obj\Debug\net5.0\RecursiveVeIterativeMetotlar.AssemblyInfo.cs
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\obj\Debug\net5.0\RecursiveVeIterativeMetotlar.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\bin\Debug\net5.0\RecursiveVeIterativeMetotlar.exe
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\bin\Debug\net5.0\RecursiveVeIterativeMetotlar.deps.json
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\bin\Debug\net5.0\RecursiveVeIterativeMetotlar.runtimeconfig.json
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\bin\Debug\net5.0\RecursiveVeIterativeMetotlar.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\bin\Debug\net5.0\RecursiveVeIterativeMetotlar.dll
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\bin\Debug\net5.0\ref\RecursiveVeIterativeMetotlar.dll
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\bin\Debug\net5.0\RecursiveVeIterativeMetotlar.pdb
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\obj\Debug\net5.0\RecursiveVeIterativeMetotlar.dll
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\obj\Debug\net5.0\ref\RecursiveVeIterativeMetotlar.dll
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\obj\Debug\net5.0\RecursiveVeIterativeMetotlar.pdb
+D:\VS Code Projects\csharp\RecursiveVeIterativeMetotlar\obj\Debug\net5.0\RecursiveVeIterativeMetotlar.genruntimeconfig.cache
