@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\bin\Debug\net5.0\FieldPropertyAuto.exe
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\bin\Debug\net5.0\FieldPropertyAuto.deps.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\bin\Debug\net5.0\FieldPropertyAuto.runtimeconfig.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\bin\Debug\net5.0\FieldPropertyAuto.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\bin\Debug\net5.0\FieldPropertyAuto.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\bin\Debug\net5.0\ref\FieldPropertyAuto.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\bin\Debug\net5.0\FieldPropertyAuto.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\obj\Debug\net5.0\FieldPropertyAuto.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\obj\Debug\net5.0\FieldPropertyAuto.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\obj\Debug\net5.0\FieldPropertyAuto.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\obj\Debug\net5.0\FieldPropertyAuto.AssemblyInfo.cs
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\obj\Debug\net5.0\FieldPropertyAuto.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\obj\Debug\net5.0\FieldPropertyAuto.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\obj\Debug\net5.0\ref\FieldPropertyAuto.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\obj\Debug\net5.0\FieldPropertyAuto.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\FieldPropertyAuto\obj\Debug\net5.0\FieldPropertyAuto.genruntimeconfig.cache
