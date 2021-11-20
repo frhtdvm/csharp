@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\obj\Debug\net5.0\Encapsulating.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\obj\Debug\net5.0\Encapsulating.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\obj\Debug\net5.0\Encapsulating.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\obj\Debug\net5.0\Encapsulating.AssemblyInfo.cs
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\obj\Debug\net5.0\Encapsulating.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\bin\Debug\net5.0\Encapsulating.exe
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\bin\Debug\net5.0\Encapsulating.deps.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\bin\Debug\net5.0\Encapsulating.runtimeconfig.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\bin\Debug\net5.0\Encapsulating.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\bin\Debug\net5.0\Encapsulating.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\bin\Debug\net5.0\ref\Encapsulating.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\bin\Debug\net5.0\Encapsulating.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\obj\Debug\net5.0\Encapsulating.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\obj\Debug\net5.0\ref\Encapsulating.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\obj\Debug\net5.0\Encapsulating.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\obj\Debug\net5.0\Encapsulating.genruntimeconfig.cache

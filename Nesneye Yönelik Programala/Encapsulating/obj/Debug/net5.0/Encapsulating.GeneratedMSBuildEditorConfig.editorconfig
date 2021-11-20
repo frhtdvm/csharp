@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Giris
-build_property.ProjectDir = d:\VS Code Projects\csharp\Nesneye Yönelik Programala\Giris\
+build_property.RootNamespace = Encapsulating
+build_property.ProjectDir = d:\VS Code Projects\csharp\Nesneye Yönelik Programala\Encapsulating\

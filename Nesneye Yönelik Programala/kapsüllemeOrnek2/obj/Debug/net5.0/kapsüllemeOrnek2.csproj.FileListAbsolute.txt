@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\bin\Debug\net5.0\kapsüllemeOrnek2.exe
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\bin\Debug\net5.0\kapsüllemeOrnek2.deps.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\bin\Debug\net5.0\kapsüllemeOrnek2.runtimeconfig.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\bin\Debug\net5.0\kapsüllemeOrnek2.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\bin\Debug\net5.0\kapsüllemeOrnek2.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\bin\Debug\net5.0\ref\kapsüllemeOrnek2.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\bin\Debug\net5.0\kapsüllemeOrnek2.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\obj\Debug\net5.0\kapsüllemeOrnek2.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\obj\Debug\net5.0\kapsüllemeOrnek2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\obj\Debug\net5.0\kapsüllemeOrnek2.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\obj\Debug\net5.0\kapsüllemeOrnek2.AssemblyInfo.cs
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\obj\Debug\net5.0\kapsüllemeOrnek2.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\obj\Debug\net5.0\kapsüllemeOrnek2.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\obj\Debug\net5.0\ref\kapsüllemeOrnek2.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\obj\Debug\net5.0\kapsüllemeOrnek2.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\kapsüllemeOrnek2\obj\Debug\net5.0\kapsüllemeOrnek2.genruntimeconfig.cache
