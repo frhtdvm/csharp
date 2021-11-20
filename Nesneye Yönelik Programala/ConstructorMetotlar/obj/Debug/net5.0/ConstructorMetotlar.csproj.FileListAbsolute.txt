@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\obj\Debug\net5.0\ConstructorMetotlar.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\obj\Debug\net5.0\ConstructorMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\obj\Debug\net5.0\ConstructorMetotlar.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\obj\Debug\net5.0\ConstructorMetotlar.AssemblyInfo.cs
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\obj\Debug\net5.0\ConstructorMetotlar.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\bin\Debug\net5.0\ConstructorMetotlar.exe
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\bin\Debug\net5.0\ConstructorMetotlar.deps.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\bin\Debug\net5.0\ConstructorMetotlar.runtimeconfig.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\bin\Debug\net5.0\ConstructorMetotlar.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\bin\Debug\net5.0\ConstructorMetotlar.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\bin\Debug\net5.0\ref\ConstructorMetotlar.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\bin\Debug\net5.0\ConstructorMetotlar.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\obj\Debug\net5.0\ConstructorMetotlar.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\obj\Debug\net5.0\ref\ConstructorMetotlar.dll
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\obj\Debug\net5.0\ConstructorMetotlar.pdb
+D:\VS Code Projects\csharp\Nesneye Yönelik Programala\ConstructorMetotlar\obj\Debug\net5.0\ConstructorMetotlar.genruntimeconfig.cache
