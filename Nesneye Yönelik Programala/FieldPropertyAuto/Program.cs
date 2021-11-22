@@ -19,13 +19,14 @@ namespace FieldPropertyAuto
             get {return yas; }
             set {if (value < 0) yas = value;}
         }
-
-        //Auto-implemented property
+        //auto-implemented construct bunu kullanarak property icinde set i ve ozelliklerini kaldiririz
         public Insan(string cinsiyet)
         {
             this.Cinsiyet = cinsiyet;
         }
-        public string Cinsiyet {get;}
+        //Auto-implemented property
+        //public string Cinsiyet {get; set;} read and write 
+        public string Cinsiyet {get;} // readonly
 
         }
         static void Main(string[] args)

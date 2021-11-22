@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\bin\Debug\net5.0\multidimensionalArrays.exe
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\bin\Debug\net5.0\multidimensionalArrays.deps.json
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\bin\Debug\net5.0\multidimensionalArrays.runtimeconfig.json
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\bin\Debug\net5.0\multidimensionalArrays.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\bin\Debug\net5.0\multidimensionalArrays.dll
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\bin\Debug\net5.0\ref\multidimensionalArrays.dll
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\bin\Debug\net5.0\multidimensionalArrays.pdb
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\obj\Debug\net5.0\multidimensionalArrays.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\obj\Debug\net5.0\multidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\obj\Debug\net5.0\multidimensionalArrays.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\obj\Debug\net5.0\multidimensionalArrays.AssemblyInfo.cs
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\obj\Debug\net5.0\multidimensionalArrays.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\obj\Debug\net5.0\multidimensionalArrays.dll
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\obj\Debug\net5.0\ref\multidimensionalArrays.dll
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\obj\Debug\net5.0\multidimensionalArrays.pdb
+D:\VS Code Projects\csharp\diziler\multidimensionalArrays\obj\Debug\net5.0\multidimensionalArrays.genruntimeconfig.cache

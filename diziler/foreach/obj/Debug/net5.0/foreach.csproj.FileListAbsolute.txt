@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\diziler\foreach\obj\Debug\net5.0\foreach.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\diziler\foreach\obj\Debug\net5.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\diziler\foreach\obj\Debug\net5.0\foreach.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\diziler\foreach\obj\Debug\net5.0\foreach.AssemblyInfo.cs
+D:\VS Code Projects\csharp\diziler\foreach\obj\Debug\net5.0\foreach.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\diziler\foreach\bin\Debug\net5.0\foreach.exe
+D:\VS Code Projects\csharp\diziler\foreach\bin\Debug\net5.0\foreach.deps.json
+D:\VS Code Projects\csharp\diziler\foreach\bin\Debug\net5.0\foreach.runtimeconfig.json
+D:\VS Code Projects\csharp\diziler\foreach\bin\Debug\net5.0\foreach.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\diziler\foreach\bin\Debug\net5.0\foreach.dll
+D:\VS Code Projects\csharp\diziler\foreach\bin\Debug\net5.0\ref\foreach.dll
+D:\VS Code Projects\csharp\diziler\foreach\bin\Debug\net5.0\foreach.pdb
+D:\VS Code Projects\csharp\diziler\foreach\obj\Debug\net5.0\foreach.dll
+D:\VS Code Projects\csharp\diziler\foreach\obj\Debug\net5.0\ref\foreach.dll
+D:\VS Code Projects\csharp\diziler\foreach\obj\Debug\net5.0\foreach.pdb
+D:\VS Code Projects\csharp\diziler\foreach\obj\Debug\net5.0\foreach.genruntimeconfig.cache
