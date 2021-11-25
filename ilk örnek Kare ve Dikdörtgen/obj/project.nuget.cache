@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bBnVC1UOjRkxVCO9oDgOl6niaIgd6Yjp0CePyQlGYnf5e/n7L5Pf6AT0mt8cIZturSO/WPmFPAX/suT1NMIPfQ==",
+  "dgSpecHash": "WXil4ehDNyKpIJSKl7VLoGgSIt2VYGrUa4gfmIq9m9wyL24MKHrgzv89FEZwPE1cT1LpH8J0os6YXd62gxBd/A==",
   "success": true,
   "projectFilePath": "D:\\VS Code Projects\\csharp\\ilk örnek Kare ve Dikdörtgen\\csharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bomsi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

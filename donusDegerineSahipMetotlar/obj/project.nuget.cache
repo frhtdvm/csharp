@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GToToH5w63669/hlY21kFZLqPncRXN9iKQj7XHsJV+VU8Is1TwsUgPKmONuXqt0wZTVc56LbKQunaGLou65rnQ==",
+  "dgSpecHash": "MjwQJdtf8KE+NM9mHYrKXm6pB50DQg1K1QuvWqmnbxUnr1MdDFQssCu3guf2yMiD0rEbW8pHIxe6q6/jUwOc4Q==",
   "success": true,
   "projectFilePath": "D:\\VS Code Projects\\csharp\\donusDegerineSahipMetotlar\\donusDegerineSahipMetotlar.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bomsi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
