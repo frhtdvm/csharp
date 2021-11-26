@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G3rZtvyatf9JeKJ5s9dvMuNsGbfFlsV+B6OU9K4dw/exv94theUzM2N4UtmznV5+c2yV6YqbWNDRFh65SvsxfA==",
+  "dgSpecHash": "lszRXyyEUySUTLSdizErWpuubc2BhSaNI0zhgNvMQROeKf8u3IlCkX4mb2bCh47f0AxtBf2Z6bGb6UFfbKMqLg==",
   "success": true,
-  "projectFilePath": "D:\\VS Code Projects\\csharp\\operatorler\\operatorler.csproj",
+  "projectFilePath": "/home/blaze/vs code projects/csharp/operatorler/operatorler.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

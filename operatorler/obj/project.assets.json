@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bomsi\\.nuget\\packages\\": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS Code Projects\\csharp\\operatorler\\operatorler.csproj",
+      "projectUniqueName": "/home/blaze/vs code projects/csharp/operatorler/operatorler.csproj",
       "projectName": "operatorler",
-      "projectPath": "D:\\VS Code Projects\\csharp\\operatorler\\operatorler.csproj",
-      "packagesPath": "C:\\Users\\bomsi\\.nuget\\packages\\",
-      "outputPath": "D:\\VS Code Projects\\csharp\\operatorler\\obj\\",
+      "projectPath": "/home/blaze/vs code projects/csharp/operatorler/operatorler.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/blaze/vs code projects/csharp/operatorler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bomsi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/146/sdk/5.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }

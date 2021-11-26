@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\bomsi\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\bomsi\\.nuget\\packages"
+      "/home/blaze/.dotnet/store/|arch|/|tfm|",
+      "/home/blaze/.nuget/packages"
     ]
   }
 }
