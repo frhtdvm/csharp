@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/blaze/vs code projects/csharp/do-while ornegi/do-while ornegi.csproj",
         "projectName": "do-while ornegi",
         "projectPath": "/home/blaze/vs code projects/csharp/do-while ornegi/do-while ornegi.csproj",
-        "packagesPath": "/home/blaze/.nuget/packages/",
+        "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/blaze/vs code projects/csharp/do-while ornegi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/blaze/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -47,26 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[5.0.12, 5.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/150/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/146/sdk/5.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }

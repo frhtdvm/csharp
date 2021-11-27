@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a9HED0qVjeTXr04p1I/C9G+2pMLZY+CKwc5CTfyTfCfqkD866n1CifryrIw1mBDORXKK/cxNZekRHBToUqjNmw==",
+  "dgSpecHash": "crfPr8QlBbiuo0EUBLquwlGjSg2QTTYZr9szGZOJYYTF1WZK/+E5rR5JEyZd/A9aekIAIRb/0Z+QdufU7yIRlQ==",
   "success": true,
   "projectFilePath": "/home/blaze/vs code projects/csharp/do-while ornegi/do-while ornegi.csproj",
-  "expectedPackageFiles": [
-    "/home/blaze/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/blaze/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/blaze/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.12/microsoft.netcore.app.host.linux-x64.5.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
