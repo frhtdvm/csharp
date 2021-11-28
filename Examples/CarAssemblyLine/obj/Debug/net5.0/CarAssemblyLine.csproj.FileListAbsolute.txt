@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\obj\Debug\net5.0\CarAssemblyLine.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\obj\Debug\net5.0\CarAssemblyLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\obj\Debug\net5.0\CarAssemblyLine.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\obj\Debug\net5.0\CarAssemblyLine.AssemblyInfo.cs
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\obj\Debug\net5.0\CarAssemblyLine.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\bin\Debug\net5.0\CarAssemblyLine.exe
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\bin\Debug\net5.0\CarAssemblyLine.deps.json
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\bin\Debug\net5.0\CarAssemblyLine.runtimeconfig.json
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\bin\Debug\net5.0\CarAssemblyLine.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\bin\Debug\net5.0\CarAssemblyLine.dll
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\bin\Debug\net5.0\ref\CarAssemblyLine.dll
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\bin\Debug\net5.0\CarAssemblyLine.pdb
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\obj\Debug\net5.0\CarAssemblyLine.dll
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\obj\Debug\net5.0\ref\CarAssemblyLine.dll
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\obj\Debug\net5.0\CarAssemblyLine.pdb
+D:\VS Code Projects\csharp\Examples\CarAssemblyLine\obj\Debug\net5.0\CarAssemblyLine.genruntimeconfig.cache
