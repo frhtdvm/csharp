@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS Code Projects\\csharp\\do-while ornegi\\do-while ornegi.csproj": {}
+    "/home/blaze/vs code projects/csharp/do-while ornegi/do-while ornegi.csproj": {}
   },
   "projects": {
-    "D:\\VS Code Projects\\csharp\\do-while ornegi\\do-while ornegi.csproj": {
+    "/home/blaze/vs code projects/csharp/do-while ornegi/do-while ornegi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS Code Projects\\csharp\\do-while ornegi\\do-while ornegi.csproj",
+        "projectUniqueName": "/home/blaze/vs code projects/csharp/do-while ornegi/do-while ornegi.csproj",
         "projectName": "do-while ornegi",
-        "projectPath": "D:\\VS Code Projects\\csharp\\do-while ornegi\\do-while ornegi.csproj",
-        "packagesPath": "C:\\Users\\bomsi\\.nuget\\packages\\",
-        "outputPath": "D:\\VS Code Projects\\csharp\\do-while ornegi\\obj\\",
+        "projectPath": "/home/blaze/vs code projects/csharp/do-while ornegi/do-while ornegi.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/blaze/vs code projects/csharp/do-while ornegi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bomsi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/146/sdk/5.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }

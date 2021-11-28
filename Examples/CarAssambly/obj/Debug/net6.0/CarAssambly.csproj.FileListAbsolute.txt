@@ -1,5 +1,0 @@
-D:\VS Code Projects\csharp\Examples\CarAssambly\obj\Debug\net6.0\CarAssambly.csproj.AssemblyReference.cache
-D:\VS Code Projects\csharp\Examples\CarAssambly\obj\Debug\net6.0\CarAssambly.GeneratedMSBuildEditorConfig.editorconfig
-D:\VS Code Projects\csharp\Examples\CarAssambly\obj\Debug\net6.0\CarAssambly.AssemblyInfoInputs.cache
-D:\VS Code Projects\csharp\Examples\CarAssambly\obj\Debug\net6.0\CarAssambly.AssemblyInfo.cs
-D:\VS Code Projects\csharp\Examples\CarAssambly\obj\Debug\net6.0\CarAssambly.csproj.CoreCompileInputs.cache

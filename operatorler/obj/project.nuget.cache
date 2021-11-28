@@ -1,10 +1,17 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "OvMC7qV5R1uimarkL7O2ExDpwUHtHhu0/GDYIUhHGVjjE81d0aAk/vVlhUD941bOYa1uZr3LeZRvCcQAkMPJTg==",
   "success": true,
   "projectFilePath": "D:\\VS Code Projects\\csharp\\operatorler\\operatorler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bomsi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "lszRXyyEUySUTLSdizErWpuubc2BhSaNI0zhgNvMQROeKf8u3IlCkX4mb2bCh47f0AxtBf2Z6bGb6UFfbKMqLg==",
+  "success": true,
+  "projectFilePath": "/home/blaze/vs code projects/csharp/operatorler/operatorler.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> c88c53f5114318baa4822cdb4408bc29086c90b4
   "logs": []
 }
