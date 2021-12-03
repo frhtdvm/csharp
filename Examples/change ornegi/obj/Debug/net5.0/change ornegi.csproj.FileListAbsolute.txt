@@ -1,0 +1,16 @@
+D:\VS Code Projects\csharp\Examples\change ornegi\bin\Debug\net5.0\change ornegi.exe
+D:\VS Code Projects\csharp\Examples\change ornegi\bin\Debug\net5.0\change ornegi.deps.json
+D:\VS Code Projects\csharp\Examples\change ornegi\bin\Debug\net5.0\change ornegi.runtimeconfig.json
+D:\VS Code Projects\csharp\Examples\change ornegi\bin\Debug\net5.0\change ornegi.runtimeconfig.dev.json
+D:\VS Code Projects\csharp\Examples\change ornegi\bin\Debug\net5.0\change ornegi.dll
+D:\VS Code Projects\csharp\Examples\change ornegi\bin\Debug\net5.0\ref\change ornegi.dll
+D:\VS Code Projects\csharp\Examples\change ornegi\bin\Debug\net5.0\change ornegi.pdb
+D:\VS Code Projects\csharp\Examples\change ornegi\obj\Debug\net5.0\change ornegi.csproj.AssemblyReference.cache
+D:\VS Code Projects\csharp\Examples\change ornegi\obj\Debug\net5.0\change ornegi.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\csharp\Examples\change ornegi\obj\Debug\net5.0\change ornegi.AssemblyInfoInputs.cache
+D:\VS Code Projects\csharp\Examples\change ornegi\obj\Debug\net5.0\change ornegi.AssemblyInfo.cs
+D:\VS Code Projects\csharp\Examples\change ornegi\obj\Debug\net5.0\change ornegi.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\csharp\Examples\change ornegi\obj\Debug\net5.0\change ornegi.dll
+D:\VS Code Projects\csharp\Examples\change ornegi\obj\Debug\net5.0\ref\change ornegi.dll
+D:\VS Code Projects\csharp\Examples\change ornegi\obj\Debug\net5.0\change ornegi.pdb
+D:\VS Code Projects\csharp\Examples\change ornegi\obj\Debug\net5.0\change ornegi.genruntimeconfig.cache
